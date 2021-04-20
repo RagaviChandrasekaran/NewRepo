@@ -60,6 +60,7 @@ public void cre() {
 	driver.manage().window().maximize();
 	
 	driver.get("https://ui.cogmento.com/");
+	System.out.println("New");
 	
 }
 
